@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3627F732-EF4E-400C-AA6F-C6EEA45EBCB9}|Project1.vcxproj|C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\ch6-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3627F732-EF4E-400C-AA6F-C6EEA45EBCB9}|Project1.vcxproj|solutionrelative:ch6-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3627F732-EF4E-400C-AA6F-C6EEA45EBCB9}|Project1.vcxproj|C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\ch6-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3627F732-EF4E-400C-AA6F-C6EEA45EBCB9}|Project1.vcxproj|solutionrelative:ch6-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ch6-3.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\ch6-3.c",
+              "RelativeDocumentMoniker": "ch6-3.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\ch6-3.c*",
+              "RelativeToolTip": "ch6-3.c*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-11T02:12:26.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ch6-2.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\ch6-2.c",
               "RelativeDocumentMoniker": "ch6-2.c",
-              "ToolTip": "C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\ch6-2.c*",
-              "RelativeToolTip": "ch6-2.c*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwDMAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\ch6-2.c",
+              "RelativeToolTip": "ch6-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-09-11T01:17:39.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ch6-1.c",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\202603873 \uAE08 \uCEF4\uD504\\Project1\\ch6-1.c",
               "RelativeDocumentMoniker": "ch6-1.c",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "ch6-1.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-09-11T00:22:43.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T00:22:43.499Z"
             }
           ]
         }
